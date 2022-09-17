@@ -1,0 +1,442 @@
+----- Order details for client with Id: 1001 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 5, Cost: гд75.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 3, Cost: гд10.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 3, Cost: гд12.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 4, Cost: гд55.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 6, Cost: гд180.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 5, Cost: гд10.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 1, Cost: гд25.00
+Order Total: гд367.50
+----- Order details for client with Id: 1002 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 6, Cost: гд90.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 4, Cost: гд14.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 6, Cost: гд24.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 8, Cost: гд110.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 8, Cost: гд240.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 5, Cost: гд10.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 5, Cost: гд125.00
+Order Total: гд613.00
+----- Order details for client with Id: 1003 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 1, Cost: гд15.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 5, Cost: гд17.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 3, Cost: гд12.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 6, Cost: гд82.50
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 2, Cost: гд60.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 3, Cost: гд6.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 2, Cost: гд50.00
+Order Total: гд243.00
+----- Order details for client with Id: 1004 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 2, Cost: гд30.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 1, Cost: гд3.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 4, Cost: гд16.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 2, Cost: гд27.50
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 2, Cost: гд60.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 2, Cost: гд4.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 5, Cost: гд125.00
+Order Total: гд266.00
+----- Order details for client with Id: 1005 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 5, Cost: гд75.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 8, Cost: гд28.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 9, Cost: гд36.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 3, Cost: гд41.25
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 5, Cost: гд150.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 5, Cost: гд10.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 8, Cost: гд200.00
+Order Total: гд540.25
+----- Order details for client with Id: 1006 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 3, Cost: гд45.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 6, Cost: гд21.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 4, Cost: гд16.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 4, Cost: гд55.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 2, Cost: гд60.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 4, Cost: гд8.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 1, Cost: гд25.00
+Order Total: гд230.00
+----- Order details for client with Id: 1007 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 3, Cost: гд45.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 6, Cost: гд21.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 1, Cost: гд4.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 5, Cost: гд150.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 4, Cost: гд8.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 2, Cost: гд50.00
+Order Total: гд278.00
+----- Order details for client with Id: 1008 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 2, Cost: гд30.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 3, Cost: гд10.50
+Item's name: Phone, Cost per item: гд13.75, Quantity: 3, Cost: гд41.25
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 2, Cost: гд60.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 3, Cost: гд6.00
+Order Total: гд147.75
+----- Order details for client with Id: 1009 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 5, Cost: гд75.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 6, Cost: гд21.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 10, Cost: гд40.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 2, Cost: гд27.50
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 10, Cost: гд300.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 5, Cost: гд10.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 5, Cost: гд125.00
+Order Total: гд598.50
+----- Order details for client with Id: 1010 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 3, Cost: гд45.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 7, Cost: гд24.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 4, Cost: гд16.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 6, Cost: гд82.50
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 9, Cost: гд270.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 4, Cost: гд8.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 8, Cost: гд200.00
+Order Total: гд646.00
+----- Order details for client with Id: 1011 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 1, Cost: гд15.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 4, Cost: гд14.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 1, Cost: гд30.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 3, Cost: гд75.00
+Order Total: гд134.00
+----- Order details for client with Id: 1012 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 3, Cost: гд45.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 4, Cost: гд14.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 8, Cost: гд32.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 3, Cost: гд41.25
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 5, Cost: гд150.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 8, Cost: гд16.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 4, Cost: гд100.00
+Order Total: гд398.25
+----- Order details for client with Id: 1013 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 4, Cost: гд60.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 1, Cost: гд4.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 2, Cost: гд4.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 1, Cost: гд25.00
+Order Total: гд93.00
+----- Order details for client with Id: 1014 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 3, Cost: гд45.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 3, Cost: гд10.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 5, Cost: гд20.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 2, Cost: гд27.50
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 3, Cost: гд90.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 3, Cost: гд6.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 5, Cost: гд125.00
+Order Total: гд324.00
+----- Order details for client with Id: 1015 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 3, Cost: гд45.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 3, Cost: гд10.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 3, Cost: гд12.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 5, Cost: гд68.75
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 3, Cost: гд90.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 4, Cost: гд8.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 5, Cost: гд125.00
+Order Total: гд359.25
+----- Order details for client with Id: 1016 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 5, Cost: гд75.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 8, Cost: гд28.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 2, Cost: гд8.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 4, Cost: гд55.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 6, Cost: гд180.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 5, Cost: гд10.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 3, Cost: гд75.00
+Order Total: гд431.00
+----- Order details for client with Id: 1017 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 4, Cost: гд60.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 7, Cost: гд24.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 6, Cost: гд24.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 4, Cost: гд55.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 5, Cost: гд150.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 4, Cost: гд8.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 3, Cost: гд75.00
+Order Total: гд396.50
+----- Order details for client with Id: 1018 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 1, Cost: гд15.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 4, Cost: гд14.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 4, Cost: гд16.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 4, Cost: гд55.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 3, Cost: гд90.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 2, Cost: гд4.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 3, Cost: гд75.00
+Order Total: гд269.00
+----- Order details for client with Id: 1019 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 5, Cost: гд75.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 9, Cost: гд31.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 4, Cost: гд16.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 4, Cost: гд55.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 6, Cost: гд180.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 6, Cost: гд12.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 6, Cost: гд150.00
+Order Total: гд519.50
+----- Order details for client with Id: 1020 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 3, Cost: гд45.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 5, Cost: гд17.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 2, Cost: гд8.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 4, Cost: гд55.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 3, Cost: гд6.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 4, Cost: гд100.00
+Order Total: гд231.50
+----- Order details for client with Id: 1021 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 3, Cost: гд45.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 11, Cost: гд38.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 8, Cost: гд32.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 4, Cost: гд55.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 9, Cost: гд270.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 6, Cost: гд12.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 2, Cost: гд50.00
+Order Total: гд502.50
+----- Order details for client with Id: 1022 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 2, Cost: гд30.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 5, Cost: гд17.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 3, Cost: гд12.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 8, Cost: гд110.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 4, Cost: гд120.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 6, Cost: гд12.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 1, Cost: гд25.00
+Order Total: гд326.50
+----- Order details for client with Id: 1023 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 1, Cost: гд15.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 5, Cost: гд17.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 3, Cost: гд12.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 1, Cost: гд13.75
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 2, Cost: гд60.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 3, Cost: гд6.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 1, Cost: гд25.00
+Order Total: гд149.25
+----- Order details for client with Id: 1024 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 1, Cost: гд15.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 6, Cost: гд21.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 5, Cost: гд20.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 8, Cost: гд110.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 2, Cost: гд60.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 6, Cost: гд12.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 4, Cost: гд100.00
+Order Total: гд338.00
+----- Order details for client with Id: 1025 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 4, Cost: гд60.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 5, Cost: гд17.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 1, Cost: гд4.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 4, Cost: гд55.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 3, Cost: гд90.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 2, Cost: гд4.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 3, Cost: гд75.00
+Order Total: гд305.50
+----- Order details for client with Id: 1026 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 2, Cost: гд30.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 2, Cost: гд7.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 7, Cost: гд28.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 11, Cost: гд151.25
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 7, Cost: гд210.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 3, Cost: гд6.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 5, Cost: гд125.00
+Order Total: гд557.25
+----- Order details for client with Id: 1027 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 5, Cost: гд75.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 7, Cost: гд24.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 7, Cost: гд28.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 7, Cost: гд96.25
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 6, Cost: гд180.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 3, Cost: гд6.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 6, Cost: гд150.00
+Order Total: гд559.75
+----- Order details for client with Id: 1028 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 4, Cost: гд60.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 1, Cost: гд4.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 1, Cost: гд13.75
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 4, Cost: гд120.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 3, Cost: гд6.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 4, Cost: гд100.00
+Order Total: гд303.75
+----- Order details for client with Id: 1029 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 7, Cost: гд105.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 5, Cost: гд17.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 4, Cost: гд16.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 3, Cost: гд41.25
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 4, Cost: гд120.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 5, Cost: гд10.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 10, Cost: гд250.00
+Order Total: гд559.75
+----- Order details for client with Id: 1030 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 4, Cost: гд60.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 5, Cost: гд17.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 2, Cost: гд8.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 4, Cost: гд55.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 5, Cost: гд150.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 6, Cost: гд12.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 7, Cost: гд175.00
+Order Total: гд477.50
+----- Order details for client with Id: 1031 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 5, Cost: гд75.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 1, Cost: гд3.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 3, Cost: гд12.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 2, Cost: гд27.50
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 5, Cost: гд150.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 7, Cost: гд14.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 8, Cost: гд200.00
+Order Total: гд482.00
+----- Order details for client with Id: 1032 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 4, Cost: гд60.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 5, Cost: гд17.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 4, Cost: гд16.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 8, Cost: гд110.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 5, Cost: гд150.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 4, Cost: гд8.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 5, Cost: гд125.00
+Order Total: гд486.50
+----- Order details for client with Id: 1033 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 5, Cost: гд75.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 2, Cost: гд7.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 1, Cost: гд4.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 1, Cost: гд13.75
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 2, Cost: гд60.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 3, Cost: гд6.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 1, Cost: гд25.00
+Order Total: гд190.75
+----- Order details for client with Id: 1034 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 6, Cost: гд90.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 2, Cost: гд7.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 11, Cost: гд44.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 6, Cost: гд82.50
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 5, Cost: гд150.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 9, Cost: гд18.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 4, Cost: гд100.00
+Order Total: гд491.50
+----- Order details for client with Id: 1035 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 4, Cost: гд60.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 1, Cost: гд4.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 2, Cost: гд27.50
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 4, Cost: гд120.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 2, Cost: гд4.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 1, Cost: гд25.00
+Order Total: гд240.50
+----- Order details for client with Id: 1036 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 6, Cost: гд90.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 1, Cost: гд3.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 5, Cost: гд20.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 3, Cost: гд41.25
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 3, Cost: гд90.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 6, Cost: гд12.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 5, Cost: гд125.00
+Order Total: гд381.75
+----- Order details for client with Id: 1037 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 8, Cost: гд120.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 5, Cost: гд17.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 6, Cost: гд24.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 4, Cost: гд55.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 5, Cost: гд150.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 4, Cost: гд8.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 8, Cost: гд200.00
+Order Total: гд574.50
+----- Order details for client with Id: 1038 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 2, Cost: гд30.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 1, Cost: гд3.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 2, Cost: гд8.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 3, Cost: гд41.25
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 1, Cost: гд30.00
+Order Total: гд112.75
+----- Order details for client with Id: 1039 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 4, Cost: гд60.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 6, Cost: гд21.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 6, Cost: гд24.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 6, Cost: гд82.50
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 6, Cost: гд180.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 5, Cost: гд10.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 6, Cost: гд150.00
+Order Total: гд527.50
+----- Order details for client with Id: 1040 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 7, Cost: гд105.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 1, Cost: гд3.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 3, Cost: гд12.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 5, Cost: гд68.75
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 7, Cost: гд210.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 5, Cost: гд10.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 3, Cost: гд75.00
+Order Total: гд484.25
+----- Order details for client with Id: 1041 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 10, Cost: гд150.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 5, Cost: гд17.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 3, Cost: гд12.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 8, Cost: гд110.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 4, Cost: гд120.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 5, Cost: гд10.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 3, Cost: гд75.00
+Order Total: гд494.50
+----- Order details for client with Id: 1042 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 4, Cost: гд60.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 9, Cost: гд31.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 8, Cost: гд32.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 1, Cost: гд13.75
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 7, Cost: гд210.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 7, Cost: гд14.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 7, Cost: гд175.00
+Order Total: гд536.25
+----- Order details for client with Id: 1043 -----
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 7, Cost: гд24.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 5, Cost: гд20.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 1, Cost: гд13.75
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 1, Cost: гд30.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 4, Cost: гд8.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 5, Cost: гд125.00
+Order Total: гд221.25
+----- Order details for client with Id: 1044 -----
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 3, Cost: гд10.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 4, Cost: гд16.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 5, Cost: гд150.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 3, Cost: гд6.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 2, Cost: гд50.00
+Order Total: гд232.50
+----- Order details for client with Id: 1045 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 3, Cost: гд45.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 4, Cost: гд14.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 5, Cost: гд20.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 4, Cost: гд55.00
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 5, Cost: гд150.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 7, Cost: гд14.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 7, Cost: гд175.00
+Order Total: гд473.00
+----- Order details for client with Id: 1046 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 16, Cost: гд240.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 3, Cost: гд10.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 1, Cost: гд4.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 5, Cost: гд68.75
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 4, Cost: гд120.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 5, Cost: гд10.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 4, Cost: гд100.00
+Order Total: гд553.25
+----- Order details for client with Id: 1047 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 5, Cost: гд75.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 6, Cost: гд21.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 5, Cost: гд20.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 7, Cost: гд96.25
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 6, Cost: гд180.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 1, Cost: гд2.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 4, Cost: гд100.00
+Order Total: гд494.25
+----- Order details for client with Id: 1048 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 6, Cost: гд90.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 3, Cost: гд10.50
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 7, Cost: гд28.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 7, Cost: гд96.25
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 2, Cost: гд60.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 1, Cost: гд2.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 4, Cost: гд100.00
+Order Total: гд386.75
+----- Order details for client with Id: 1049 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 4, Cost: гд60.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 4, Cost: гд14.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 2, Cost: гд8.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 5, Cost: гд68.75
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 4, Cost: гд120.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 5, Cost: гд10.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 2, Cost: гд50.00
+Order Total: гд330.75
+----- Order details for client with Id: 1050 -----
+Item's name: Blu-Ray, Cost per item: гд15.00, Quantity: 3, Cost: гд45.00
+Item's name: Lamp, Cost per item: гд3.50, Quantity: 6, Cost: гд21.00
+Item's name: MovieRental, Cost per item: гд4.00, Quantity: 3, Cost: гд12.00
+Item's name: Phone, Cost per item: гд13.75, Quantity: 6, Cost: гд82.50
+Item's name: Shoes, Cost per item: гд30.00, Quantity: 6, Cost: гд180.00
+Item's name: Song, Cost per item: гд2.00, Quantity: 10, Cost: гд20.00
+Item's name: Textbook, Cost per item: гд25.00, Quantity: 3, Cost: гд75.00
+Order Total: гд435.50
+***** Summary of all orders *****
+Summary - Item's name: Blu-Ray, Cost per item: гд15.00, Number sold: 202, Item's Total: гд3,030.00
+Summary - Item's name: Lamp, Cost per item: гд3.50, Number sold: 221, Item's Total: гд773.50
+Summary - Item's name: MovieRental, Cost per item: гд4.00, Number sold: 205, Item's Total: гд820.00
+Summary - Item's name: Phone, Cost per item: гд13.75, Number sold: 203, Item's Total: гд2,791.25
+Summary - Item's name: Shoes, Cost per item: гд30.00, Number sold: 216, Item's Total: гд6,480.00
+Summary - Item's name: Song, Cost per item: гд2.00, Number sold: 213, Item's Total: гд426.00
+Summary - Item's name: Textbook, Cost per item: гд25.00, Number sold: 199, Item's Total: гд4,975.00
+Summary Grand Total: гд19,295.75
